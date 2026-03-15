@@ -1,1 +1,48 @@
+# Epstein File Manager
 
+A lightweight portable file manager for Windows.
+
+Fast, clean and designed for efficient file management.
+
+---
+
+## Features
+
+• Fast file browsing  
+• Portable executable (no installation)  
+• GitHub auto updater  
+• Lightweight design  
+• Clean UI  
+
+More features coming soon.
+
+---
+
+## Download
+
+Download the latest version here:
+
+https://github.com/EinhornLab/Epstein-FileManager/releases
+
+---
+
+## Screenshots
+
+![Main Interface](screenshots/main.png)
+
+![Download Manager](screenshots/download.png)
+
+---
+
+## Requirements
+
+Windows 10 / Windows 11  
+64-bit system
+
+---
+
+## Project Status
+
+Active development.
+
+New features will be added in upcoming versions.
