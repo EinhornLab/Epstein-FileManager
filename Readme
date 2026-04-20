@@ -1,4 +1,4 @@
-# Epstein File Manager
+############### Epstein File Manager ###############
 
 A lightweight portable file manager for Windows.
 
@@ -6,7 +6,7 @@ Built for fast PDF browsing, file downloads, and search workflows across release
 
 ---
 
-## Features
+############### Features ###############
 
 • Fast file browsing  
 • Built-in PDF viewer  
@@ -19,7 +19,7 @@ Built for fast PDF browsing, file downloads, and search workflows across release
 
 ---
 
-## Download
+############### Download ###############
 
 Get the latest version here:
 
@@ -27,14 +27,14 @@ https://github.com/EinhornLab/Epstein-FileManager/releases
 
 ---
 
-## Requirements
+############### Requirements ###############
 
 Windows 10 / Windows 11  
 64-bit system
 
 ---
 
-## Project Status
+############### Project Status ###############
 
 Currently in active development.
 
