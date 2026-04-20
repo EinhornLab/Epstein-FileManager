@@ -2,25 +2,26 @@
 
 A lightweight portable file manager for Windows.
 
-Fast, clean and designed for efficient file management.
+Built for fast PDF browsing, file downloads, and search workflows across released dataset files.
 
 ---
 
 ## Features
 
 • Fast file browsing  
-• Portable executable (no installation)  
+• Built-in PDF viewer  
+• Search / scan function for words, multiple terms, and exact phrases  
+• Download manager  
+• Portable executable (no installation required)  
 • GitHub auto updater  
 • Lightweight design  
 • Clean UI  
-
-More features coming soon.
 
 ---
 
 ## Download
 
-Download the latest version here:
+Get the latest version here:
 
 https://github.com/EinhornLab/Epstein-FileManager/releases
 
@@ -35,6 +36,6 @@ Windows 10 / Windows 11
 
 ## Project Status
 
-Active development.
+Currently in active development.
 
-New features will be added in upcoming versions.
+The project is being expanded with improved search, scanning, and workflow features.
